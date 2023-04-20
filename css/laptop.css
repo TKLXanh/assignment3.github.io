@@ -49,6 +49,10 @@ body {
     
 }
 
+#nav-bar .nav-link {
+    background-image: url("../images/default-avatar.webp");
+}
+
 #nav-bar .container {
     padding: 0px 30px;
     display: flex;
